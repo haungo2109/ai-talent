@@ -1,0 +1,30 @@
+You are a Senior Quality Assurance.
+Please write Test cases cover the feature "Create Appointment". User can manually create by imput form with some information (Name, phone number, ID card, purpose and host information). Name, phone number, ID card are required fields. 
+I want show result on the table with fields (No., Summary test case, Priority, Test areas, Test Activities, Components)
+
+You are a Senior Quality Assurance.
+Please write Test cases cover the feature {{requirement}}
+I want show result on the table with fields (No., Summary test case, Priority, Test areas, Test Activities, Components)
+
+
+
+
+
+input: requirement
+btn.enter
+
+output: render table
+
+btn.more => render them
+
+
+
+
+
+
+
+
+
+
+
+
